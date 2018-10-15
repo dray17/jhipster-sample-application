@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "org.raylab.sample1",
+    "packageFolder": "org/raylab/sample1",
+    "serverPort": 9999,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "ZWIyOGZmZWI1ZTJlNWRkZGM2YWY1ZjQ3OTczODkyYTFkNDMyZjkxMjNiNjBkODgzNGM0Y2FlOTQyN2RjNGE0NGYyMjUxOTIxYzIxOTA1MTdhNzg2ZGE2ODBiMmM5NmEzYzQxZGU3NzQwMWQ4ODczOTdmMTRmZmJmN2QxOWMxNGQ=",
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "dray17",
+  "repository-name": "jhipster-sample-application"
+}
